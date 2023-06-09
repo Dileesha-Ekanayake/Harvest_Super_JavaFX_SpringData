@@ -1,0 +1,3 @@
+javac -cp lib/*;src -d out src/lk/earth/dbapp/*.java
+
+java -cp lib/*;out lk.earth.dbapp.EmployeeUi
